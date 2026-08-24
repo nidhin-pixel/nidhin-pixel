@@ -14,9 +14,9 @@ Building practical software, learning how systems work, and turning ideas into w
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhi-n-b68920328/)
-[![Email](https://img.shields.io/badge/Email-Contact-00E5FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nidhinagar2020@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-00E5FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nidhin-pixel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-21262D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=21262D&color=2563EB)](https://www.linkedin.com/in/nidhi-n-b68920328/)
+[![Email](https://img.shields.io/badge/Email-Contact-21262D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=21262D&color=C2413B)](mailto:nidhinagar2020@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-21262D?style=for-the-badge&logo=github&logoColor=white&labelColor=21262D&color=374151)](https://github.com/nidhin-pixel)
 
 <br>
 
@@ -32,7 +32,7 @@ Building practical software, learning how systems work, and turning ideas into w
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=👩‍💻+ABOUT+ME" alt="About Me" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+ABOUT+ME" alt="About Me" />
 
 </div>
 
@@ -59,7 +59,7 @@ I believe in learning by **building**, not just completing tutorials.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=🎯+CURRENT+FOCUS" alt="Current Focus" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=%F0%9F%8E%AF+CURRENT+FOCUS" alt="Current Focus" />
 
 </div>
 
@@ -81,7 +81,7 @@ I believe in learning by **building**, not just completing tutorials.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=🛠️+TECH+STACK" alt="Tech Stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+STACK" alt="Tech Stack" />
 
 </div>
 
@@ -109,7 +109,7 @@ I believe in learning by **building**, not just completing tutorials.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=🚀+FEATURED+PROJECTS" alt="Featured Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+FEATURED+PROJECTS" alt="Featured Projects" />
 
 </div>
 
@@ -151,7 +151,7 @@ Structured programming practice covering concepts learned while building a found
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=🏆+HACKATHONS+%26+BUILDS" alt="Hackathons and Builds" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=%F0%9F%8F%86+HACKATHONS+%26+BUILDS" alt="Hackathons and Builds" />
 
 </div>
 
@@ -171,7 +171,7 @@ I use hackathons to move beyond tutorials and build under real constraints.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=📚+CURRENTLY+LEARNING" alt="Currently Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=%F0%9F%93%9A+CURRENTLY+LEARNING" alt="Currently Learning" />
 
 </div>
 
@@ -196,13 +196,14 @@ AI Integration
  ↓
 Production Systems
 ```
+
 ---
 
 <!-- ===================== GITHUB ACTIVITY ===================== -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=📈+GITHUB+ACTIVITY" alt="GitHub Activity" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=%F0%9F%93%88+GITHUB+ACTIVITY" alt="GitHub Activity" />
 
 <br><br>
 
@@ -222,7 +223,7 @@ Production Systems
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=🐍+CONTRIBUTION+ACTIVITY" alt="Contribution Activity" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=%F0%9F%90%8D+CONTRIBUTION+ACTIVITY" alt="Contribution Activity" />
 
 <br><br>
 
@@ -236,7 +237,7 @@ Production Systems
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=🌱+WHAT+I'M+WORKING+TOWARD" alt="What I'm Working Toward" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=%F0%9F%8C%B1+WHAT+I'M+WORKING+TOWARD" alt="What I'm Working Toward" />
 
 </div>
 
@@ -252,7 +253,7 @@ I'm building the fundamentals required to get there:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=💭+MY+JOURNEY" alt="My Journey" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=%F0%9F%92%AD+MY+JOURNEY" alt="My Journey" />
 
 </div>
 
@@ -268,7 +269,7 @@ Every repository here represents something I'm learning, experimenting with, or 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=🚀+BUILD.+LEARN.+IMPROVE." alt="Build Learn Improve" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+BUILD.+LEARN.+IMPROVE." alt="Build Learn Improve" />
 
 <br><br>
 
