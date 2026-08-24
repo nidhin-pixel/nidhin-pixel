@@ -1,47 +1,281 @@
-# 💫 About Me
+<!-- ========================================================= -->
+<!--                         HERO                              -->
+<!-- ========================================================= -->
 
-BCA student focused on software development, backend engineering, and AI-powered applications. Building practical skills through projects, hackathons, and hands-on development.
+<div align="center">
 
-🔭 **I'm currently working on:**  
-Python projects, backend development, and AI-powered applications.
+# 👩‍💻 NIDHI NAGAR
 
-🤝 **I'm looking to collaborate on:**  
-Open-source projects, backend applications, AI projects, and hackathons.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1800&color=00E5FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer" alt="Aspiring Software Engineer" />
 
-🌱 **I'm currently learning:**  
-C++, DSA, DBMS, Python, APIs, Git/GitHub, and AI integration.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7DF9FF&center=true&vCenter=true&width=700&lines=Backend+Development;AI-Powered+Applications;Problem+Solving;Building+Projects;Learning+Every+Day" alt="Backend AI Problem Solving" />
 
-💡 **I'm looking for help with:**  
-Improving my DSA, backend development, system design, and writing production-quality code.
+Building practical software, learning how systems work, and turning ideas into working projects.
 
-💬 **Ask me about:**  
-Python, C++, beginner software development, hackathons, and my journey into software engineering.
+<br>
 
-⚡ **Fun fact:**  
-I started programming from a non-CS background and I'm building my way into software engineering one project at a time.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhi-n-b68920328/)
+[![Email](https://img.shields.io/badge/Email-Contact-00E5FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nidhinagar2020@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-00E5FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nidhin-pixel)
 
-## 🌐 Socials
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhi-n-b68920328/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nidhinagar2020@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=nidhin-pixel&style=flat-square&color=00E5FF)
 
-## 💻 Tech Stack
-
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=nidhin-pixel&show_icons=true&theme=dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=nidhin-pixel&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nidhin-pixel&layout=compact&theme=dark&hide_border=true)
+</div>
 
 ---
 
-[![Profile Views](https://komarev.com/ghpvc/?username=nidhin-pixel&style=flat&color=blue)](https://github.com/nidhin-pixel)
+<!-- ========================================================= -->
+<!--                       ABOUT ME                            -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=👩‍💻+ABOUT+ME" alt="About Me" />
+
+</div>
+
+I'm a **BCA student** focused on building a strong foundation in software engineering.
+
+My current journey is centered around:
+
+- 💻 Programming and problem solving
+- ⚙️ Backend development
+- 🤖 AI-powered applications
+- 🗄️ Databases and system fundamentals
+- 🚀 Hackathons and hands-on projects
+- 🔧 Building and improving projects through practice
+
+I believe in learning by **building**, not just completing tutorials.
+
+> **Learning → Building → Breaking → Improving → Repeating**
+
+---
+
+<!-- ========================================================= -->
+<!--                    CURRENT FOCUS                           -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=🎯+CURRENT+FOCUS" alt="Current Focus" />
+
+</div>
+
+| Area | Focus |
+|---|---|
+| 🧩 Programming | C++ · Python |
+| 🧠 Problem Solving | Data Structures & Algorithms |
+| 🗄️ Databases | DBMS · MySQL |
+| ⚙️ Backend | Python · APIs |
+| 🤖 AI | AI Integration · AI-powered applications |
+| 🛠️ Development | Git · GitHub · Projects |
+| 🏆 Experience | Hackathons · Buildathons |
+
+---
+
+<!-- ========================================================= -->
+<!--                     TECH STACK                            -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=🛠️+TECH+STACK" alt="Tech Stack" />
+
+</div>
+
+### 💻 Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+<!-- ========================================================= -->
+<!--                  FEATURED PROJECTS                        -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=🚀+FEATURED+PROJECTS" alt="Featured Projects" />
+
+</div>
+
+### 🤖 AI Course Recommender
+
+An AI-focused project exploring how technology can be used to recommend learning paths and courses based on user requirements.
+
+**Focus:** `Python` · `AI` · `Recommendation Systems`
+
+---
+
+### 🎙️ EchoSphere
+
+A real-time multilingual voice AI assistant built as a hackathon project, exploring conversational AI, voice interaction, contextual understanding, and human escalation.
+
+**Focus:** `AI` · `Voice Interaction` · `Real-time Systems` · `APIs`
+
+---
+
+### 🐍 Python Projects
+
+A collection of Python projects built while strengthening programming fundamentals and problem-solving skills.
+
+**Focus:** `Python` · `Logic Building` · `Problem Solving`
+
+---
+
+### 💻 C Programming Practice
+
+Structured programming practice covering concepts learned while building a foundation in programming.
+
+**Focus:** `C` · `Programming Fundamentals` · `Problem Solving`
+
+---
+
+<!-- ========================================================= -->
+<!--                 HACKATHONS & BUILDS                       -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=🏆+HACKATHONS+%26+BUILDS" alt="Hackathons and Builds" />
+
+</div>
+
+I use hackathons to move beyond tutorials and build under real constraints.
+
+- 🚀 **EchoSphere — 2026**
+- 💻 **Girls Hack Day Delhi — 2026**
+- 🧠 Exploring more hackathons, buildathons, and developer communities
+
+> Building fast is useful. Building something that actually works is the goal.
+
+---
+
+<!-- ========================================================= -->
+<!--                  CURRENTLY LEARNING                       -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=📚+CURRENTLY+LEARNING" alt="Currently Learning" />
+
+</div>
+
+### 🔥 Current Focus
+
+`C++` · `DSA` · `DBMS` · `Python` · `Backend` · `AI`
+
+### 🧭 Learning Path
+
+```text
+C++
+ ↓
+Data Structures & Algorithms
+ ↓
+DBMS
+ ↓
+Python Backend
+ ↓
+APIs
+ ↓
+AI Integration
+ ↓
+Production Systems
+```
+---
+
+<!-- ===================== GITHUB ACTIVITY ===================== -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=📈+GITHUB+ACTIVITY" alt="GitHub Activity" />
+
+<br><br>
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=nidhin-pixel&show_icons=true&theme=dark&hide_border=true&rank_icon=github" height="170">
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nidhin-pixel&layout=compact&theme=dark&hide_border=true" height="170">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=nidhin-pixel&theme=dark&hide_border=true" width="500">
+
+</div>
+
+---
+
+<!-- ===================== CONTRIBUTION ACTIVITY ===================== -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=🐍+CONTRIBUTION+ACTIVITY" alt="Contribution Activity" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/nidhin-pixel/nidhin-pixel/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+<!-- ===================== WHAT I'M WORKING TOWARD ===================== -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=🌱+WHAT+I'M+WORKING+TOWARD" alt="What I'm Working Toward" />
+
+</div>
+
+My long-term goal is to become a **strong software engineer specializing in backend systems and AI integration**.
+
+I'm building the fundamentals required to get there:
+
+**Programming → DSA → Databases → Backend → APIs → AI → Production Systems**
+
+---
+
+<!-- ===================== MY JOURNEY ===================== -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=💭+MY+JOURNEY" alt="My Journey" />
+
+</div>
+
+I didn't come from a traditional CS background.
+
+Instead of treating that as a limitation, I'm using **projects, courses, hackathons, and consistent practice** to build my way into software engineering.
+
+Every repository here represents something I'm learning, experimenting with, or improving.
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=🚀+BUILD.+LEARN.+IMPROVE." alt="Build Learn Improve" />
+
+<br><br>
+
+### Thanks for visiting my profile! 👋
+
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=nidhin-pixel&style=for-the-badge&color=00E5FF)](https://github.com/nidhin-pixel)
+
+</div>
