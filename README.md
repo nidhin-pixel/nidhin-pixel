@@ -113,6 +113,22 @@ I believe in learning by **building**, not just completing tutorials.
 
 </div>
 
+### 🎙️ EchoSphere
+
+A real-time multilingual voice AI assistant built as a hackathon project, exploring conversational AI, voice interaction, contextual understanding, and human escalation.
+
+**Focus:** `AI` · `Voice Interaction` · `Real-time Systems` · `APIs`
+
+---
+
+### 🧠 SkillSense
+
+An AI-powered competency intelligence platform for **Smart India Hackathon (SIH)** that continuously analyzes assessment performance, identifies skill gaps, personalizes learning, and builds a dynamic **Competency Passport** for every official.
+
+**Focus:** `AI` · `Competency Intelligence` · `Adaptive Learning` · `Data Analytics`
+
+---
+
 ### 🤖 AI Course Recommender
 
 An AI-focused project exploring how technology can be used to recommend learning paths and courses based on user requirements.
@@ -121,13 +137,6 @@ An AI-focused project exploring how technology can be used to recommend learning
 
 ---
 
-### 🎙️ EchoSphere
-
-A real-time multilingual voice AI assistant built as a hackathon project, exploring conversational AI, voice interaction, contextual understanding, and human escalation.
-
-**Focus:** `AI` · `Voice Interaction` · `Real-time Systems` · `APIs`
-
----
 
 ### 🐍 Python Projects
 
@@ -157,6 +166,7 @@ Structured programming practice covering concepts learned while building a found
 
 I use hackathons to move beyond tutorials and build under real constraints.
 
+- 🚀 **SIH — 2026**
 - 🚀 **EchoSphere — 2026**
 - 💻 **Girls Hack Day Delhi — 2026**
 - 🧠 Exploring more hackathons, buildathons, and developer communities
